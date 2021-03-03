@@ -2,7 +2,7 @@
 
 ## Contact info
 + **Hrodna, Belarus**
-+ **Tel.:** +375 29 7822044
++ **Tel.:** +375(29)782-20-44
 + **Telegram:** @rb_by
 + **Discort:** AndreiS#7092  
 
