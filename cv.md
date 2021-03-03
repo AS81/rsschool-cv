@@ -35,3 +35,8 @@ I finished Yanka Kupala State University of Grodno as mathematics
 ### Additional education
 1. IPO at Yanka Kupala State University of Grodno as software engineer
 1. JavaScript Basics. Institute for advanced training and retraining in the field of informatization and management at BSU. Grodno. April 2019.
+
+## English
+I think that I have B1 level, but EPAM test say that my knowledge *not so good)*
+
+#### RSSchool 2021q1
