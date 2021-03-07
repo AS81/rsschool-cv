@@ -1,0 +1,65 @@
+.section {
+  padding-left: 1rem;
+  border-bottom-style: dotted;
+  border-bottom-color: rgb(179, 181, 184);
+}
+
+#last_section {
+  padding-bottom: 2rem;
+  border-bottom-style: none;
+}
+
+.section_headline {
+  padding-left: 0.5rem;
+}
+
+.contact_item {
+  font-weight: bold;
+}
+
+.block {
+  padding: 1rem;
+  width: fit-content;
+  background-color: lightgray;
+}
+
+body {
+  /* reset default page settings */
+  margin: 0;
+  padding: 0;
+  /* add new settings */
+  margin: 0 auto;
+  font-family: "Verdana", "Georgia", serif;
+  font-size: 16px;
+  text-align: justify;
+  background-color: lightcyan;
+}
+
+p {
+  margin-left: 0.5rem;
+  text-indent: 2rem;
+}
+
+header,
+footer {
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+}
+
+header img {
+  border-radius: 45%;
+  min-width: 8rem;
+  max-width: 30rem;
+  width: 10%;
+}
+
+footer img {
+  min-width: 8rem;
+  max-width: 30rem;
+  width: 10%;
+  height: 10%;
+  border: none;
+}
