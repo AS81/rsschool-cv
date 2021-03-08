@@ -20,7 +20,13 @@
 .block {
   padding: 1rem;
   width: fit-content;
+  height: fit-content;
   background-color: lightgray;
+}
+
+.page {
+  text-align: justify;
+  background-color: lightcyan;
 }
 
 body {
@@ -29,10 +35,10 @@ body {
   padding: 0;
   /* add new settings */
   margin: 0 auto;
+  max-width: 1200px;
   font-family: "Verdana", "Georgia", serif;
   font-size: 16px;
-  text-align: justify;
-  background-color: lightcyan;
+  text-align: center;
 }
 
 p {
@@ -56,10 +62,14 @@ header img {
   width: 10%;
 }
 
-footer img {
+figcaption {
+  font-size: 0.7rem;
+}
+
+footer img,
+input {
   min-width: 8rem;
   max-width: 30rem;
   width: 10%;
-  height: 10%;
   border: none;
 }
