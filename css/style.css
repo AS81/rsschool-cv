@@ -61,10 +61,13 @@ header img {
   width: 10%;
 }
 
+figcaption {
+  font-size: 0.7rem;
+}
+
 footer img {
   min-width: 8rem;
   max-width: 30rem;
   width: 10%;
-  height: 10%;
   border: none;
 }
