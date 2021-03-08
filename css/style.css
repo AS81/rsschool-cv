@@ -23,16 +23,21 @@
   background-color: lightgray;
 }
 
+.page {
+  text-align: justify;
+  background-color: lightcyan;
+}
+
 body {
   /* reset default page settings */
   margin: 0;
   padding: 0;
   /* add new settings */
   margin: 0 auto;
+  max-width: 1200px;
   font-family: "Verdana", "Georgia", serif;
   font-size: 16px;
-  text-align: justify;
-  background-color: lightcyan;
+  text-align: center;
 }
 
 p {
